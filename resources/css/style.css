@@ -9,3 +9,8 @@ body {
     font-size: 50px;
     color: #fff;
 }
+
+.link--cta {
+    font-weight: 16px;
+    color:aquamarine;
+}
